@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Attendance Report</title>
+	<title>Classes and Events Attendance</title>
 	
 	<link rel="stylesheet" type="text/css" href="css/ivory.css" media="all">
 	
